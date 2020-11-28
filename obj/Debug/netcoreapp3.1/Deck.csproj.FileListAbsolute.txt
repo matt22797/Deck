@@ -1,0 +1,13 @@
+/home/codespace/workspace/Deck/bin/Debug/netcoreapp3.1/Deck
+/home/codespace/workspace/Deck/bin/Debug/netcoreapp3.1/Deck.deps.json
+/home/codespace/workspace/Deck/bin/Debug/netcoreapp3.1/Deck.runtimeconfig.json
+/home/codespace/workspace/Deck/bin/Debug/netcoreapp3.1/Deck.runtimeconfig.dev.json
+/home/codespace/workspace/Deck/bin/Debug/netcoreapp3.1/Deck.dll
+/home/codespace/workspace/Deck/bin/Debug/netcoreapp3.1/Deck.pdb
+/home/codespace/workspace/Deck/obj/Debug/netcoreapp3.1/Deck.csprojAssemblyReference.cache
+/home/codespace/workspace/Deck/obj/Debug/netcoreapp3.1/Deck.AssemblyInfoInputs.cache
+/home/codespace/workspace/Deck/obj/Debug/netcoreapp3.1/Deck.AssemblyInfo.cs
+/home/codespace/workspace/Deck/obj/Debug/netcoreapp3.1/Deck.csproj.CoreCompileInputs.cache
+/home/codespace/workspace/Deck/obj/Debug/netcoreapp3.1/Deck.dll
+/home/codespace/workspace/Deck/obj/Debug/netcoreapp3.1/Deck.pdb
+/home/codespace/workspace/Deck/obj/Debug/netcoreapp3.1/Deck.genruntimeconfig.cache
